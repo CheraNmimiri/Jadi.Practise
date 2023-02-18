@@ -1,0 +1,1 @@
+typ=int(input("Enter yhis year ")

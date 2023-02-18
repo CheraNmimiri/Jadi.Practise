@@ -1,0 +1,11 @@
+list_number=[]
+list_score=[]
+x=int(input("How much you have student?"))
+student_number=0
+score=0
+while student_number !="p":
+    student_number=input("Enter Student number:")
+    score=input('Enter score of student:')
+    list_number.append(student_number)
+    list_score.append(score)
+

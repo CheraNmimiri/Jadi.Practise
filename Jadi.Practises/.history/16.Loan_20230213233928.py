@@ -1,0 +1,1 @@
+month=int(input("Enter month "))
